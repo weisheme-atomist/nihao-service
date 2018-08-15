@@ -5,7 +5,10 @@ Based on seed project `johnsonr:flux-flix-service`
 
 ## Running the Project
 
-First install Mongo db if you don't have it already.
+First install Mongo db if you don't have it already. Easiest way is:
+```
+docker run --name mongodb --rm -p 27017:27017 bitnami/mongodb:latest
+```
 
 Then, start the server with:
 
