@@ -13,4 +13,4 @@ Then, start the server with:
 mvn spring-boot:run
 ```
 
-Test by visiting `http://localhost:8080/movies`
+Test by visiting `http://localhost:8090/movies`
